@@ -15,7 +15,7 @@ The goal is to simplify a complex dataset containing over 15 distinct features i
 * **Variance Analysis**: Includes a calculation of cumulative explained variance to determine how much information is retained after reduction.
 
 
-## ⚙️ Installation Instructions
+##  Installation Instructions
 
 To run the analysis notebook, you must have **Python 3.x** installed. The following libraries are required:
 
