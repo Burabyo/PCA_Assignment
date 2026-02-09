@@ -2,7 +2,7 @@
 
 This repository contains an individual implementation of **Principal Component Analysis (PCA)** applied to a wildlife dataset concerning African pangolin seizures. The project demonstrates the use of advanced linear algebra to reduce the dimensionality of ecological data while preserving the variance that explains species and haplotype distributions.
 
-## 📊 Project Overview
+##  Project Overview
 
 The goal is to simplify a complex dataset containing over 15 distinct features into a 2D visualization. This allows for the identification of patterns in seizure data that are not easily visible in high-dimensional space.
 
@@ -41,7 +41,7 @@ pip install pandas numpy matplotlib
 * **Matplotlib**: For generating the final "Before and After" comparison plots.
 
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Dataset**: Ensure the file `African pangolin (1).csv` is in the project folder.
 2. **Run the Notebook**: Open `Template_PCA_Formative_1.ipynb` in your preferred environment (VS Code or Google Colab).
@@ -53,7 +53,7 @@ pip install pandas numpy matplotlib
 
 
 
-## 📈 Results
+## Results
 
 The implementation successfully reduces the pangolin seizure features into two principal components:
 
